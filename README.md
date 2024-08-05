@@ -18,7 +18,7 @@ This project is a bash script that simulates a salon appointment scheduling syst
 1. Ensure you have PostgreSQL installed on your system.
 2. Clone this repository:
    ```
-   git clone https://github.com/your-username/salon-appointment-scheduler.git
+   git clone https://github.com/osamudazai2594/salon
    ```
 3. Navigate to the project directory:
    ```
